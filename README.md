@@ -13,17 +13,14 @@ As a multi-instrumentalist and researcher, I work at the intersection of **Music
 * 📋 **Academic Contributions:** Peer reviewer for *Music & Science* (UK), member of the Research Commission at the Brazilian Union of Music Therapy Associations (UBAM).
 
 ---
-
 ### 🌍 International Presence & Publications
 I frequently present my research at global conferences, bridging the gap between music and health:
-https://iammonline.com/berlin2024/"
-* 🇩🇪 **Berlin (2024):** IAMM & ISfAM Congress - *The Future of Music in Health*.
-  * [View Poster: MIDI data for Music Therapy Research](https://ivanmoria.github.io/media/documents/textos/PosterBerlin2024.pdf)
-* 🇨🇦 **Vancouver (2023):** 17th World Congress of Music Therapy. 
-  * [Published in Music Therapy Today, Vol 18 (p. 496)](https://ivanmoria.github.io/media/documents/textos/Proceedings_of_17th_World_Congress_of_Music_Therapy.pdf#page=496)
-* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **Edinburgh (2022):** 12th European Music Therapy Conference.
-  * [Abstract: Relationship between Music Therapy and Social Cognition (p. 223)](https://ivanmoria.github.io/media/documents/textos/emtc2022-book-of-abstracts-final-20220603.pdf#page=223)
 
+* 🇩🇪 **IAMM & ISfAM Congress - Berlin (2024):** *The Future of Music in Health*.
+  * [View Poster: MIDI data for Music Therapy Research](https://ivanmoria.github.io/media/documents/textos/PosterBerlin2024.pdf)
+* 🇨🇦 **17th World Congress of Music Therapy - Vancouver (2023):** * [Published in Music Therapy Today, Vol 18 (p. 496)](https://ivanmoria.github.io/media/documents/textos/Proceedings_of_17th_World_Congress_of_Music_Therapy.pdf#page=496)
+* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **12th European Music Therapy Conference - Edinburgh (2022):**
+  * [Abstract: Relationship between Music Therapy and Social Cognition (p. 223)](https://ivanmoria.github.io/media/documents/textos/emtc2022-book-of-abstracts-final-20220603.pdf#page=223)
 ---
 
 ### 🛠 Technical Skills & Tools
@@ -33,24 +30,18 @@ https://iammonline.com/berlin2024/"
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Max/MSP](https://img.shields.io/badge/Max%20MSP-Cycling%20'74-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
 ### 🎻 Artistic Journey
-Active musician in the Brazilian scene:
-* **Baroque Cello:** Member of *Orquestra 415 de Música Antiga*.
-* **Accordion & Mandolin:** *UFMG Choro Orchestra* and *Chorodito* group.
+Active musician in the Brazilian scene, bridging classical traditions and contemporary soundtracks:
 
----
+* **Baroque Cello:** Cellist at **Orquestra 415 de Música Antiga** (2015–2025). 
+  * *Highlight:* Soloist in **Vivaldi's Concerto for Two Cellos in G minor**. [See Concert Flyer](https://ivanmoria.github.io/media/documents/certificados/concerto2cellos.pdf)
+* **Symphonic Cello:** Cellist at **Orquestra Multiplayer** (2014-2018) performing soundtracks from games and films.
+* **Accordion & Mandolin:** Member of the **UFMG Choro Orchestra** and **Chorodito** group.
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanmoria&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmoria&layout=compact&langs_count=7&theme=dracula" />
-</div>
-
----
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanmoriaborges/)
